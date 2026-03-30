@@ -1,6 +1,6 @@
 Algoritmo Papaya
 	Definir Alumnos Como Entero
-	Escribir "Ingrese el total de estudiantes mujeres con hijos con estrabismo: "
+	Escribir "Ingrese el total de estudiantes mujeres con hijos con SIDA: "
 	Leer Alumnos
 	Escribir "El total de alumnos es ", Alumnos
 FinAlgoritmo
